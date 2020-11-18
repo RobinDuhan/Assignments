@@ -1,0 +1,7 @@
+sklearn == 0.0
+pandas == 1.1.4
+matplotlib == 3.3.3
+keras == 2.4.3
+numpy == 1.18.5
+fsspec == 0.8.4
+statsmodels == 0.12.1
