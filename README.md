@@ -9,9 +9,11 @@
 5 - Keep the testing data homogeneous to the training data <br>
 
 
+
 Datasets has been uploaded for convenience. After downloading, change the path accordingly. 
 
-</h3> Docker Image </h3>
+<h3> Docker Image </h3>
+
 Link for Docker Image - https://hub.docker.com/repository/docker/doc1robinduhan/model_propulsion/general
 
 The image is for the model used in Assignment-2, the model trains on this container. The use of the image is to showcase the understading of docker for deployement
